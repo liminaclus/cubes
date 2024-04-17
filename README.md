@@ -20,7 +20,10 @@ Open the terminal and run these commands:
    ```
    npm run dev
    ```
-5. Copy the link shown in the terminal, and paste it in your browser, and hit enter.
-   You will be able to see the demonstration. You can interact with it using your mouse or trackpad.
+5. Now just enter (in the terminal):
+   ```
+   o
+   ```
+   The web app will open up in the browser. You can interact with it using your mouse or trackpad.
 
 ![screenshot](screenshot1.png)
