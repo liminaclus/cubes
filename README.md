@@ -25,6 +25,7 @@ Open the terminal and run these commands:
    o
    ```
    and hit enter.
+
    The web app will open up in the browser. You can interact with it using your mouse or trackpad.
 
 ![screenshot](screenshot1.png)
