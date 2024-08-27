@@ -1,5 +1,5 @@
 # cubes
-A fun interactable visual trinket made with cubes and wires in three.js.
+A fun visual trinket made with cubes and wires in three.js.
 
 ## How to run
 Open the terminal and run these commands:
